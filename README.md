@@ -5,7 +5,7 @@ This template lets you get started using Dagster Cloud with a Hybrid agent.
 > **Note**
 > It is recommended to first deploy the example project included in this repository and then replace it with your own Dagster project.
 
-## Pre-requisites
+## Pre-requisites 
 
 What you need to start using this template:
 
